@@ -4,7 +4,7 @@ INSTITUTO TECNOLÓGICO DE OAXACA
 
  Materia:PROGRAMACION WEB
 
- “MI PORTAFOLIO Enlace de repositorio de Github y/o GitHub Pages”
+ “MI login Enlace de repositorio de Github y/o GitHub Pages”
 
  Profesor: Martinez Nieto Adelina
 Equipo: MORALES OSORIO RUBI ESMERALDA
